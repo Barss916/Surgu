@@ -206,7 +206,7 @@
     width: 100%;
 }
 
-.submit {
+.submit__button {
     display: flex;
     margin-top: 14px;
     border-radius: 5px;
@@ -216,5 +216,10 @@
     height: 33px;
     justify-self: center;
     align-items: center;
+    justify-content: center;
+}
+
+.submit {
+    display: flex;
     justify-content: center;
 }
